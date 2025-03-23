@@ -76,7 +76,7 @@
 Ответ с числом людей на каждой стойке регистрации.
 
 <p align="center">
-   <img width="200px" src="TG-bot_example.png" alt="TG-bot_example"/>
+   <img width="400px" src="TG-bot_example.png" alt="TG-bot_example"/>
 </p>
 
 ## 5) Перспективы расширения системы
