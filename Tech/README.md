@@ -33,7 +33,13 @@
   2) send_information.py в директории OpenCV
   3) BotApplication.java в директории bot 
 - Для корректной работы программы, устройства должны быть в одной локальной сети с разрешенным прямым взаимодействием(когда мы тестили на устройствах, подключенных к университетской сети, программа не работала, так как она не могла получить данные по URL-адресу. В домашней сети или на мобильной раздаче все работает корректно), а также в файле send_information  вставить корректные URL-адресса видеопотока(для этого можно использовать мобильные приложения, например для андройда, "IP Webcam")
-
+<p align="center">
+   <img width="400px" src="photo_from_phone_with_URL-address.png" alt="photo_from_phone_with_URL-address.png"/>
+</p>
+<p align="center">
+   <img width="400px" src="screen_from_code_with_URL-address.png" alt="screen_from_code_with_URL-address.png"/>
+</p>
+Адресс, обведенный на первом фото должен быть вставлен в значение по ключу "Camera from first phone" или "Camera from second phone" в словаре camera_indices на втором фото
 3) Исходный код решения
 
 - [Исходный код решения](https://github.com/miroslav0221/TG-Bot-S7-Hakaton/tree/1d7fce32c9fd4ab0d464a55708ec9a7fa81408af)
