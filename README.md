@@ -1,6 +1,6 @@
 # S7-Hakaton: Телеграм-бот для отслеживания количества людей на стойках регистрации ✈️
 
-![S7 Logo](https://upload.wikimedia.org/wikipedia/commons/a/a6/S7_Airlines_logo.svg)
+![S7 Logo](https://turproezdka.ru/wp-content/uploads/2018/09/ris.-1-logotip-kompanii.jpg)
 
 ## 📌 Описание
 
